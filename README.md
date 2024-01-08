@@ -15,9 +15,9 @@ Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">It is more crucial than ever to communicate verbally across linguistic barriers in our increasingly interconnected world. The task is to provide a user-friendly platform so that individuals may effortlessly translate content and keep a record of their interactions. It is possible to develop a scalable, environmentally friendly system that fulfills language translation needs and enhances user experience by integrating search results from recent times.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Gotranslate" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">A web application called "Gotranslate" was created to make language translation easier and to keep track of past contacts between users. When users input text, the device uses the Azure AI Translator service to translate it accurately and contextually. Additionally, the software has a feature that displays recent searches, making it simple for users to review and reuse previously completed translations.</p><br>
 <b>Key Features :</b>
 <ul>
     <li>Seamless Language Translation</li>
