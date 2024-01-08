@@ -29,23 +29,23 @@ Azure AI Service <br>
 <b>Future Enhancements :</b><br>
 <p align="justify">The Gotranslate isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
+<b>Azure App Service :</b><br><p align="justify"><br>The online application is hosted by the project using Azure App Service, which guarantees scalability, dependability, and simplicity of deployment. This service offers a safe environment for the application and facilitates easy connection with other Azure components.</p>
 
-<b>Azure MySQL Dtatabase :</b><br><p align="justify">To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.</p>
+<b>Azure MySQL Dtatabase :</b><br><p align="justify">An Azure SQL database is used by the project to store and manage recent search history. This relational database service is perfect for monitoring and presenting user interactions since it guarantees data consistency and integrity and facilitates effective querying.</p>
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
+<b>Azure AI Translator Service :</b><br><br><p align="justify">The Azure AI Translator service powers the majority of the translation capability. This service provides accurate and contextually relevant translations in a variety of languages by utilizing cutting-edge natural language processing algorithms.</p>
 <h2>Other Azure Technologies / Services</h2>
-<p align="justify">In the Gotranslate, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
+<p align="justify">Azure Monitor and Azure Application Insights work together as a dynamic team in Gotranslate, carefully monitoring application health and user stories.</p>
 
-<b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
-<b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
+<b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Keep track of important overall performance metrics to make sure the program functions properly.<br>
+<b>Proactive Alerts :</b> Provides prompt notifications when predetermined overall performance thresholds are exceeded, allowing for quick reactions to capacity interruptions.</p>
 <b>Azure Application Insights :</b><p align="justify">
-<b>User Interaction Insights :</b> Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.<br>
-<b>Diagnostics Precision :</b> Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
+<b>User Interaction Insights :</b> Examines user behavior to offer unique travel information and feature identification.<br>
+<b>Diagnostics Precision :</b> Comprehensively tracks requests to enable prompt identification and resolution of problems at both frontend and backend levels.
 
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
-<b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Gotranslate. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
+<b>Description :</b><p align="justify">Gotranslate is hosted in a scalable and dependable environment via Azure App Service. It guarantees high availability and smooth deployment, enabling the best possible user experience.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
