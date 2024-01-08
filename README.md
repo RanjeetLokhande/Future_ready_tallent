@@ -2,7 +2,7 @@
 <h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Gotranslate Translation Web App using Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https:https://gotranslate.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
 <b>Industry :</b> Lifestyle and Technology<br>
@@ -73,4 +73,4 @@ The Gotranslate redefines language connectedness by the skillful blending of lin
 <p align="justify">
 <b>As we come to an end, Gotranslate is more than simply a tool—rather, it's a continuous investigation of countless communication opportunities. This project represents a significant step toward a more accessible and connected global community in this era of global connection.</b>
 </p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Gotranslate Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://gotranslate.azurewebsites.net/">Gotranslate Translation Web App using Azure AI Translation Service</b></a>
