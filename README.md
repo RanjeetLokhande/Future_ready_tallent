@@ -51,10 +51,10 @@ Azure AI Service <br>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
 <h3>Azure AI Translator Service</h3>
-<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Gotranslate's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
+<b>Description :</b><p align="justify">The Gotranslate language translation engine is powered by the Azure AI Translator Service. To provide precise and contextually appropriate translations, it makes use of cutting-edge natural language processing.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
-<b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
+<b>Description :</b><p align="justify">I've attached a screenshot of the finished, functional website for your reference.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
@@ -62,8 +62,8 @@ Azure AI Service <br>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Gotranslate redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
+The Gotranslate redefines language connectedness by the skillful blending of linguistic elegance and generation. This project, made possible by Azure's robust infrastructure, not only addresses language obstacles but also imagines a future in which communication takes place across national boundaries.</p>
 <p align="justify">
-<b>As we finish, the Gotranslate isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
+<b>As we come to an end, Gotranslate is more than simply a tool—rather, it's a continuous investigation of countless communication opportunities. This project represents a significant step toward a more accessible and connected global community in this era of global connection.</b>
 </p> <br>
 </h2><b><a href="https://aiwebappazure.azurewebsites.net/">Gotranslate Translation Web App using Azure AI Translation Service</b></a>
