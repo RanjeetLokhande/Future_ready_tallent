@@ -48,7 +48,7 @@ Azure AI Service <br>
 <b>Description :</b><p align="justify">Gotranslate is hosted in a scalable and dependable environment via Azure App Service. It guarantees high availability and smooth deployment, enabling the best possible user experience.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
-<b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
+<b>Description :</b><p align="justify"> The project effectively manages and stores user interaction history by utilizing Azure Database for MySQL. This relational database solution facilitates speedy information retrieval and guarantees data consistency.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">The Gotranslate language translation engine is powered by the Azure AI Translator Service. To provide precise and contextually appropriate translations, it makes use of cutting-edge natural language processing.</p>
