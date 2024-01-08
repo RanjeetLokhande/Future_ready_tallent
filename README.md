@@ -62,10 +62,10 @@ Azure AI Service <br>
 
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">I've attached a screenshot of the finished, functional website for your reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
 
-<h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+![Capture4](https://github.com/RanjeetLokhande/Future_ready_tallent/assets/104196701/c821f9d1-b2c8-41b3-8668-95df44150d0f)
+
+
 
 <h2>Final Project Statement</h2>
 <p align="justify">
