@@ -31,7 +31,7 @@ Azure AI Service <br>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The online application is hosted by the project using Azure App Service, which guarantees scalability, dependability, and simplicity of deployment. This service offers a safe environment for the application and facilitates easy connection with other Azure components.</p>
 
-<b>Azure Mycosmos Dtatabase :</b><br><p align="justify">An Azure cosmos database is used by the project to store and manage recent search history. This relational database service is perfect for monitoring and presenting user interactions since it guarantees data consistency and integrity and facilitates effective querying.</p>
+<b>Azure cosmos Dtatabase :</b><br><p align="justify">An Azure cosmos database is used by the project to store and manage recent search history. This relational database service is perfect for monitoring and presenting user interactions since it guarantees data consistency and integrity and facilitates effective querying.</p>
 <h2>Azure AI Service</h2>
 <b>Azure AI Translator Service :</b><br><br><p align="justify">The Azure AI Translator service powers the majority of the translation capability. This service provides accurate and contextually relevant translations in a variety of languages by utilizing cutting-edge natural language processing algorithms.</p>
 <h2>Other Azure Technologies / Services</h2>
@@ -50,8 +50,8 @@ Azure AI Service <br>
 ![Capture](https://github.com/RanjeetLokhande/Future_ready_tallent/assets/104196701/be114273-eacc-4a6c-9dc4-d4abfdd344d6)
 
 <br>
-<h3>Azure Databse for Mycosmos</h3>
-<b>Description :</b><p align="justify"> The project effectively manages and stores user interaction history by utilizing Azure Database for Mycosmos. This relational database solution facilitates speedy information retrieval and guarantees data consistency.</p>
+<h3>Azure Databse for cosmos</h3>
+<b>Description :</b><p align="justify"> The project effectively manages and stores user interaction history by utilizing Azure Database for cosmos. This relational database solution facilitates speedy information retrieval and guarantees data consistency.</p>
 
 ![Capture2](https://github.com/RanjeetLokhande/Future_ready_tallent/assets/104196701/c74a2aff-55a7-44c3-82a5-2dc8808c67c6)
 
