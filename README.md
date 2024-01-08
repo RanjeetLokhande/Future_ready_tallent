@@ -52,10 +52,14 @@ Azure AI Service <br>
 <br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project effectively manages and stores user interaction history by utilizing Azure Database for MySQL. This relational database solution facilitates speedy information retrieval and guarantees data consistency.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
+
+![Capture2](https://github.com/RanjeetLokhande/Future_ready_tallent/assets/104196701/c74a2aff-55a7-44c3-82a5-2dc8808c67c6)
+
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">The Gotranslate language translation engine is powered by the Azure AI Translator Service. To provide precise and contextually appropriate translations, it makes use of cutting-edge natural language processing.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
+
+![Capture3](https://github.com/RanjeetLokhande/Future_ready_tallent/assets/104196701/bfbc5dd8-6475-43bd-a828-e3ed533654a4)
+
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">I've attached a screenshot of the finished, functional website for your reference.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
