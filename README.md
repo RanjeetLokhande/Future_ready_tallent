@@ -50,7 +50,7 @@ Azure AI Service <br>
 ![Capture](https://github.com/RanjeetLokhande/Future_ready_tallent/assets/104196701/be114273-eacc-4a6c-9dc4-d4abfdd344d6)
 
 <br>
-<h3>Azure Databse for cosmos</h3>
+<h3>Azure Cosmos Databse for MongoDB</h3>
 <b>Description :</b><p align="justify"> The project effectively manages and stores user interaction history by utilizing Azure Database for cosmos. This relational database solution facilitates speedy information retrieval and guarantees data consistency.</p>
 
 ![Capture2](https://github.com/RanjeetLokhande/Future_ready_tallent/assets/104196701/c74a2aff-55a7-44c3-82a5-2dc8808c67c6)
