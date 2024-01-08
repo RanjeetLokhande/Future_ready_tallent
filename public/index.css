@@ -2,49 +2,110 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-body > div {
+.container {
     display: flex;
-    background: #ddd;
-    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 2em;
+    color: #e74c3c;
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 1.5rem;
+    color: #555;
+}
+
+form {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    text-align: center;
+    transition: transform 0.3s ease;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+form:hover {
+    transform: scale(1.05);
+}
+
+.input-container,
+.select-container,
+.button-container {
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+label {
+    font-size: 1.2em;
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #3498db;
+    border-radius: 4px;
+    transition: border-color 0.3s ease;
+}
+
+input:focus,
+select:focus {
+    border-color: #e74c3c;
+}
+
+button {
+    background: #3498db;
+    color: #fff;
+    padding: 1rem;
+    border: none;
+    width: 100%;
+    border-radius: 4px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background: #2c3e50;
+}
+
+.result-container {
+    margin-top: 2rem;
 }
 
 ul {
     list-style-type: none;
-    padding: 0rem;
+    padding: 0;
 }
 
-body > div > * {
-    flex: 1;
-    padding: 1rem;
+ul li {
+    margin-bottom: 0.5rem;
+    font-size: 1.1em;
+    color: #555;
 }
 
-body > div > div {
-    background: #fff;
-}
+/* Media Queries for Responsive Design */
 
-form > div {
-    padding: 0.5rem 0rem;
-}
-
-input, select {
-    padding: 0.5rem;
-    background: #ddd;
-    border: 2px solid #7b7b7b;
-    width: 100%;
-}
-
-button {
-    background: #333;
-    color: #ddd;
-    padding: 0.5rem;
-    border: none;
-    width: 100%;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: bold;
+@media screen and (max-width: 600px) {
+    form {
+        padding: 1rem;
+    }
 }
