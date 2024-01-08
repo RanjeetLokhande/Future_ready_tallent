@@ -73,4 +73,4 @@ The Gotranslate redefines language connectedness by the skillful blending of lin
 <p align="justify">
 <b>As we come to an end, Gotranslate is more than simply a tool—rather, it's a continuous investigation of countless communication opportunities. This project represents a significant step toward a more accessible and connected global community in this era of global connection.</b>
 </p> <br>
-</h2><b><a href="https://gotranslate.azurewebsites.net/">Gotranslate Translation Web App using Azure AI Translation Service.</b></a>
+</h2><b><a href="https://gotranslate.azurewebsites.net/">Gotranslate Translation Web App using Azure AI Translation Service</b></a>
