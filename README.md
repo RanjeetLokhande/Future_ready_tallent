@@ -2,7 +2,7 @@
 <h2>Project Title:</h2><b><a href="https://gotranslate.azurewebsites.net/">Gotranslate Translation Web App using Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https:https://gotranslate.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://gotranslate.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1g73LGiiBAvpV3ll3af1XLx1DeIo5oiHS/view?usp=sharing <br>
 <b>Github Repository URL :</b> https://github.com/RanjeetLokhande/Future_ready_tallent <br>
 <b>Industry :</b> Lifestyle and Technology<br>
